@@ -1,0 +1,93 @@
+#home {
+    background-image: url(../images/蛋糕logo-banner.jpg);
+    /* max-width: 100%;
+    height: auto; */
+}
+
+#about {
+    background-image: url(../images/網頁背景.jpg);
+}
+
+/* #about .imgBox {
+    width: 80%;
+    margin: auto;
+} */
+
+
+/* #about img {
+    width: 100%;
+} */
+
+#Portfolio {
+    background-image: url(../images/網頁背景.jpg);
+}
+
+#followme {
+    background-image: url(../images/網頁背景.jpg);
+}
+
+#contact {
+    background-image: url(../images/p4.jpg);
+}
+
+.info .box{
+    float: left; width: 33%;
+    display: inline-block;
+}
+
+.info .box1{
+    float: left; width: 50%;
+    display: inline-block;
+}
+
+.info .box2{
+    float: left; width: 50%;
+    display: inline-block;
+}
+
+.info .box3{
+    float: left; width: 33%;
+    display: inline-block;
+    margin: auto;
+}
+
+
+/* 
+會跑版
+#home .imgBox{
+    width: 80%;
+    margin: auto;
+}
+#home img{
+    width: 100%; */
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+
+section {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 30px;
+}
+
+
+.txt-bg {
+    background-color: rgba(99, 97, 97, 0.6);
+    border-radius: 50px;
+    text-align: justify;
+    padding: 10px;
+    widows: 800px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.txt-bg h2 {
+    text-align: center;
+}
